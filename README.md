@@ -4,6 +4,8 @@ An immersive, interactive developer portfolio built with **Next.js 16**, **React
 
 ---
 
+**live website 🕸️**
+https://devloperadit5555.github.io/developer-mosam-portfolio/
 ## Highlights
 
 - **Interactive 3D Keyboard** — A full mechanical keyboard rendered with React Three Fiber and Three.js. Keys react to real keypresses with physics-based animations and sound effects.

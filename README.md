@@ -2,8 +2,6 @@
 
 An immersive, interactive developer portfolio built with **Next.js 16**, **React Three Fiber**, and **Tailwind CSS v4**. Features a 3D mechanical keyboard hero scene, seasonal themes, smooth scroll animations, bilingual support (ES/EN), and a fully responsive design.
 
-**[Live Demo](https://txemaalbero.com)** &nbsp;|&nbsp; **Built by [Txema Albero](https://es.linkedin.com/in/jose-mar%C3%ADa-albero-belamendia-b9319a246)**
-
 ---
 
 ## Highlights
@@ -11,7 +9,7 @@ An immersive, interactive developer portfolio built with **Next.js 16**, **React
 - **Interactive 3D Keyboard** — A full mechanical keyboard rendered with React Three Fiber and Three.js. Keys react to real keypresses with physics-based animations and sound effects.
 - **Seasonal Themes** — Four complete visual themes (Winter, Spring, Summer, Autumn) that re-skin the entire UI — colours, gradients, and 3D scene lighting — with a single click.
 - **Project Showcases** — Modal dialogs with image carousels, tech stack chips, and links to live demos and source code.
-- **Bilingual (ES/EN)** — Lightweight custom i18n layer with zero external dependencies. Language toggle persists across sections.
+- **Bilingual (EN)** — Lightweight custom i18n layer with zero external dependencies. Language toggle persists across sections.
 - **Smooth Scroll & Reveal Animations** — Powered by [Lenis](https://github.com/darkroomengineering/lenis) for buttery smooth scrolling with intersection-observer-based reveal effects.
 - **Custom Cursor & Magnetic Targets** — A custom cursor that morphs on interactive elements, with magnetic snap behaviour on buttons.
 - **Responsive & Mobile-First** — Optimised for recruiters reviewing on phones. WebGL performance and touch interactions are first-class concerns.
@@ -40,7 +38,7 @@ An immersive, interactive developer portfolio built with **Next.js 16**, **React
 
 ```bash
 # Clone the repository
-git clone https://github.com/Txemalon/3d-portfolio.git
+git clone https://devloperadit5555.github.io/developer-mosam-portfolio/
 cd 3d-portfolio
 
 # Install dependencies
@@ -50,13 +48,14 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:8080 ]in your browser.
 
 ### Build for Production
 
 ```bash
 npm run build
 npm start
+https://devloperadit5555.github.io/developer-mosam-portfolio/
 ```
 
 ### Docker
@@ -138,7 +137,7 @@ All UI strings live in `lib/i18n.ts` as a flat dictionary with `{ es, en }` leav
 
 ### Vercel (Recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Txemalon/3d-portfolio)
+
 
 ### Docker / Self-Hosted
 
@@ -146,8 +145,7 @@ The included `Dockerfile` produces a standalone Next.js image. Works with any co
 
 ```bash
 docker build -t 3d-portfolio .
-docker run -p 3000:3000 3d-portfolio
-```
+docker run -p 3000:3000 3d-portfoli
 
 ## Performance
 
@@ -162,8 +160,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-**Jose Maria Albero Belamendia (Txema)**
-
-- [LinkedIn](https://es.linkedin.com/in/jose-mar%C3%ADa-albero-belamendia-b9319a246)
-- [GitHub](https://github.com/Txemalon)
-- [X / Twitter](https://x.com/Txemalon)
+**Aditya Mehra**
